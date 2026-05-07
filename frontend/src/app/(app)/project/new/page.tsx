@@ -121,7 +121,7 @@ const onSubmit = async (e: React.FormEvent) => {
                     )}
                     style={{
                       backgroundColor: c,
-                      ringColor: c,
+                      
                     }}
                   />
                 ))}
